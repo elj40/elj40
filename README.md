@@ -6,7 +6,7 @@ I'm Elias Joubert, but you can call me Elai. I'm an aspiring machine learning en
 
 Here are some projects I'm planning to work on:
 
-1. **The Fringin Swog**
+1. **The Fringing Swog**
    - A fast-paced time-trial game about a frog that is able to swing through his environment by his tongue
 
 2. **Waterpoint Disruption simulation**
