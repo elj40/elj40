@@ -6,16 +6,13 @@ I'm Elias Joubert, but you can call me Elai. I'm an aspiring machine learning en
 
 Here are some projects I'm planning to work on:
 
-1. **The Fringing Swog**
-   - A fast-paced time-trial game about a frog that is able to swing through his environment by his tongue
-
-2. **Waterpoint Disruption simulation**
+1. **Waterpoint Disruption simulation**
    - A visulization tool to show clients the effects of placing artificial waterpoints in normally drier areas
 
-3. **Patrol Sheet Scanner**
+2. **Patrol Sheet Scanner**
    -  A tool to scan in hand-written patrol sheets made by scouts to greatly speed up the admin process of ecological studies
 
-4. **Neural Network Experimentation**
+3. **Neural Network Experimentation**
    - Experiment with different sizes and layouts of neural networks to try find best case for a self-driving car
 
 
